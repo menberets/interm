@@ -3,5 +3,5 @@ def add(x,y):
     return x+y
 def sub(x,y):
     return x-y
-print(def(10,40))
-print(def(40,52))
+print(add(10,40))
+print(add(40,52))
